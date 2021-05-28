@@ -85,7 +85,7 @@
 
    .con2 {
      max-width: 1360px;
-     width: 81.1%;
+     width: 90.1%;
      margin: 0 auto;
    }
 
@@ -104,7 +104,8 @@
    }
 
    body {
-     background-image: url("http://placehold.it/1000x1000/323232");
+     background-color: rgba(50,50,50,255);
+     /* background-image: url("http://placehold.it/1000x1000/323232"); */
      background-size: 100% 100%;
    }
 

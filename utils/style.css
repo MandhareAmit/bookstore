@@ -193,7 +193,7 @@
 
    /* Header ends */
 
-   /* main styling starts*/
+   /* main  start */
 
    .g_img li:nth-child(9) {
      display: none;
@@ -442,9 +442,9 @@
      transform: scale(1.1);
    }
 
-   /* main styling ends here */
+   /* main  end */
 
-   /* footer styling starts here */
+   /* footer start */
 
    footer .con2 {
      padding: 1% 0;
@@ -465,7 +465,7 @@
      text-decoration: underline;
    }
 
-   /* footer styling ends here */
+   /* footer  end */
 
    @media (max-width: 1024px) {
     .need_help p, .need_help a {
